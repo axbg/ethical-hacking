@@ -4,3 +4,4 @@
 
 * CTF
     * [HackTheBox](/ctf/htb)
+    * [CyberEDU](/ctf/cyberedu)
